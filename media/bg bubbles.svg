@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1639px" viewBox="0 0 1440 1639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bg bubbles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="1878"></rect>
+    </defs>
+    <g id="CSI-site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="csi-unfolded" transform="translate(0.000000, -4086.000000)">
+            <g id="bg-bubbles" transform="translate(0.000000, 3967.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Background"></g>
+                <g id="Group-4" opacity="0.75" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(1033.000000, 765.000000)" id="Oval-11">
+                        <circle stroke="#C9E9FB" stroke-width="1" fill="none" cx="214" cy="212" r="196"></circle>
+                        <circle stroke="#EA8804" stroke-width="1" fill="none" cx="76" cy="351" r="49"></circle>
+                        <circle stroke="none" fill-opacity="0.25" fill="#C9E9FB" cx="73.5" cy="73.5" r="73.5"></circle>
+                        <circle stroke="#C9E9FB" stroke-width="1" fill="none" cx="346" cy="343" r="64"></circle>
+                    </g>
+                </g>
+                <g id="Group-5" opacity="0.75" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(149.000000, 403.000000)" id="Oval-11">
+                        <circle stroke="#C9E9FB" stroke-width="1" fill="none" cx="154" cy="154" r="128"></circle>
+                        <circle stroke="#EB8803" stroke-width="1" fill="none" cx="64" cy="244" r="32"></circle>
+                        <circle stroke="none" fill-opacity="0.25" fill="#C9E9FB" cx="64" cy="64" r="64"></circle>
+                    </g>
+                </g>
+                <g id="Group-2" opacity="0.75" mask="url(#mask-2)" fill-rule="nonzero" stroke="#C9E9FB">
+                    <g transform="translate(1.000000, 1253.000000)" id="Oval-11">
+                        <circle cx="203.16018" cy="203.16018" r="203.16018"></circle>
+                        <circle cx="341.167784" cy="352.167784" r="152.167784"></circle>
+                    </g>
+                </g>
+                <g id="Group-2" opacity="0.75" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(1259.000000, 221.500000) rotate(-90.000000) translate(-1259.000000, -221.500000) translate(1157.500000, 117.500000)" id="Oval-11">
+                        <circle stroke="#C9E9FB" cx="83.5" cy="83.5" r="83.5"></circle>
+                        <circle stroke="#EB8803" cx="140" cy="145" r="63"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
